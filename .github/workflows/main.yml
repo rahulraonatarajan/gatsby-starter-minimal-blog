@@ -1,0 +1,2 @@
+- name: NoAI Guardian
+  uses: rahulraonatarajan/ai-guardian@LLMs
